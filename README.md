@@ -6,6 +6,8 @@ Create a branch new folder for a branch new django project.
 
 Fork/Clone the repo.
 
+Change into the folder.
+
 Install dependencies
 ```
 pipenv shell
