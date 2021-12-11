@@ -4,8 +4,11 @@ Create a branch new folder for a branch new django project.
 
 ## Set Up
 
+Fork/Clone the repo.
+
 Install dependencies
 ```
+pipenv shell
 pipenv install django
 pipenv install djangorestframework 
 pipenv install psycopg2
