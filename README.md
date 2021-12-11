@@ -27,7 +27,7 @@ django-admin startapp api
 ```
 
 
-Review the django crud lesson for the settings.py set up steps for psql https://git.generalassemb.ly/ga-wdi-boston/django-crud and the app as well as for your guide to complete the following steps.
+Review the django crud lesson for the settings.py set up steps for psql and restframework https://git.generalassemb.ly/ga-wdi-boston/django-crud as well as for your guide to complete the following steps.
 
 ### V1: Schools
 
