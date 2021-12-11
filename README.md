@@ -29,29 +29,29 @@ django-admin startapp api
 
 Review the django crud lesson for the settings.py set up steps for psql https://git.generalassemb.ly/ga-wdi-boston/django-crud and the app as well as for your guide to complete the following steps.
 
-### Schools
+### V1: Schools
 
 First add schools.  
 
 - `School` with name, location, and owner
 - Complete models, serializers, views, and urls files for CRUD on school.
 
-### Houses
+### V2: Houses
 
 - `House` with name, animal and slogan
 - Complete models, serializers, views, and urls files for CRUD on house.
 
-### School has many Houses
+### V3: School has many Houses
 
 - Add school foreign key to house model
 - Update school serializer so a school returns its houses
 
-### Students
+### V4: Students
 
 - `Student` has given name and family name
 - Complete models, serializers, views, and urls files for CRUD on student.
 
-### House has many Students
+### V5: House has many Students
 
 - Add house foreign key to student model
 - Update house serializer so a house returns its students
